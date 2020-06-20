@@ -25,3 +25,9 @@ p using_last(["John", "Maggie", "Bogusia"])
 end
 p using_size([1, 2, 3, 4, 5])
 p using_size(["John", "Maggie", "Bogusia"])
+
+  def using_reverse(array) 
+    array.reverse
+end
+p using_reverse([1, 2, 3, 4, 5])
+p using_reverse(["John", "Maggie", "Bogusia"])
