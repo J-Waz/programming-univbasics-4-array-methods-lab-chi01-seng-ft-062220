@@ -19,3 +19,9 @@ p using_first(["John", "Maggie", "Bogusia"])
 end
 p using_last([1, 2, 3, 4, 5])
 p using_last(["John", "Maggie", "Bogusia"])
+
+  def using_size(array) 
+    array.size
+end
+p using_size([1, 2, 3, 4, 5])
+p using_size(["John", "Maggie", "Bogusia"])
