@@ -12,3 +12,4 @@ def using_first(array)
   array.first
 end
 p using_first([1, 2, 3, 4, 5])
+p using_sort(["John", "Maggie", "Bogusia"])
