@@ -17,5 +17,5 @@ p using_first(["John", "Maggie", "Bogusia"])
   def using_last(array) 
     array.last
 end
-p using_first([1, 2, 3, 4, 5])
-p using_first(["John", "Maggie", "Bogusia"])
+p using_last([1, 2, 3, 4, 5])
+p using_last(["John", "Maggie", "Bogusia"])
