@@ -7,3 +7,8 @@ def using_sort(array)
   array.sort
 end 
 p using_sort(["John", "Maggie", "Bogusia"])
+
+def using_first(array)
+  array.first
+end
+p using_first([1, 2, 3, 4, 5])
